@@ -1,0 +1,6 @@
+
+set customer_id=LPAD(FLOOR(RAND() * 99999999)+10000000, 8, 0);
+
+
+
+
